@@ -20,7 +20,7 @@
 ---
 ### Решение 1
 
-
+![runner settings 1](https://github.com/username/reponame/blob/branch/path/image.png)
 
 ---
 ### Задание 2
